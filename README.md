@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingVentrix007
-- 👀 I’m interested in operating system development and pushing my coding limits
+- 👀 I’m interested in operating system development and pushing my coding limits(and regular limits as well)
 - 🌱 I’m currently learning assembly, c, python, and javascript
 
 <!---
