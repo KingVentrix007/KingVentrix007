@@ -1,23 +1,34 @@
-Hey there! I'm KingVentrix007, a passionate and driven programmer. My interests lie in firmware and system-level software development, primarily in C and assembly languages. With over 5 years of experience in Python and 2+ years in C, I'm always seeking new challenges that expand my skill set.
+Hey there! I'm KingVentrix007, a dedicated and ambitious software developer with a passion for firmware and system-level programming. My expertise lies in crafting robust solutions using C, assembly languages, and Python, with over 5 years of hands-on experience in Python and 2+ years in C.
 
-### About Me
-- 💻 5+ Years of Python
-- ⚙️ 2+ Years of C/C++
-- 🛠 Experience in Baremetal Programming
-- 🏅 2-Time Round 2 Programming Olympiad Participant in Python
-- 🖥 2+ Years of Research in x86/x86_64 systems
-- 🧪 Minor experimentation with JavaScript
-- 🎓 IGCSE Computer Science: Scored 94%
-### Currently Learning
-- ☕️ Java
-- #️⃣ C#
+Professional Summary:
+- Over 5 Years of Proficiency in Python
+- Extensive Experience in C/C++ Development
+- Skilled in Baremetal Programming for Embedded Systems
+- Two-Time Participant in Round 2 Programming Olympiad, Python Category
+- Proficient in Researching x86/x86_64 Systems
+- Conducted Minor Experiments in JavaScript
+- Achieved 94% in IGCSE Computer Science
+- Experience in Teaching EV3 Lego Mindstorms and Raspberry Pi Sensor Experiments
 
+Current Learning Endeavors:
+- Expanding Skills in Java
+- Exploring C#
 
-![AstroSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingVentrix007&theme=dracula)
+Notable Projects:
+- AthenX - A Custom Operating System Developed in C, C++, and Assembly
+- AthenX-2.0- A Custom Operating System Developed in C, C++, and Assembly, Supporting more features than its predecessor
+- AthenX-3.0- A Custom Operating System Developed in C, C++, and Assembly, Boasting more features,cleaner code, and overall better design than its predecessors 
+- Safe Browse - Web Browser Developed Using Python
+- API Projects: IMDB Movie Browser (Python), Chat GPT App (Python)
+- Python Game - Developed as a School Project Using Python
+- Web-sniffers & IP Sniffer - Network Tools Developed in Python
+- Java App - Project (Java/JavaScript)
+- Blender Animation - Animation Projects
+- Unity Games - Developed Using C#
+- Python Movie Stat Reader - Python-based Project
+- Text-based Adventure Game & Text Game Development Engine - Python-based Projects
+
+Feel free to delve into my projects and repositories below!
+
+![KingVentrix007's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingVentrix007&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingVentrix007&langs_count=8&theme=dracula&layout=compact)
-
-Feel free to explore my projects and repositories below!
-<!---
-KingVentrix007/KingVentrix007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
