@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+readme;I+am+KingVentrix007;I+love+to+code;Check+out+my+repositorys;Feel+free+to+contribute)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Check+out+my+repositorys;Feel+free+to+contribute)](https://git.io/typing-svg)
 
 Hey there! I'm KingVentrix007, a dedicated and ambitious software developer with a passion for firmware and system-level programming. My expertise lies in crafting robust solutions using C, assembly languages, and Python, with over 5 years of hands-on experience in Python and 2+ years in C.
 
